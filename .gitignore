@@ -1,0 +1,5 @@
+fast5
+nohup.out
+cromwell-executions
+cromwell-workflow-logs
+notebook/minion_qc-master/example*

@@ -1,0 +1,1 @@
+docker pull mpgagebioinformatics/minionqc:1.4.2

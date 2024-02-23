@@ -1,0 +1,6 @@
+sample_id,fast5_path,date
+FAN22359_pass_barcode03_ca07d29b_0,s3://bioos-wcjtd2nleig45hpncsc2g/fast5/FAN22359_pass_barcode03_ca07d29b_0.fast5,2023-09-14_11:25:05
+FAN22359_pass_barcode05_ca07d29b_0,s3://bioos-wcjtd2nleig45hpncsc2g/fast5/FAN22359_pass_barcode05_ca07d29b_0.fast5,2023-09-14_11:25:05
+FAN22359_pass_barcode01_ca07d29b_0,s3://bioos-wcjtd2nleig45hpncsc2g/fast5/FAN22359_pass_barcode01_ca07d29b_0.fast5,2023-09-14_11:25:05
+FAN22359_pass_barcode04_ca07d29b_0,s3://bioos-wcjtd2nleig45hpncsc2g/fast5/FAN22359_pass_barcode04_ca07d29b_0.fast5,2023-09-14_11:25:05
+FAN22359_pass_barcode02_ca07d29b_0,s3://bioos-wcjtd2nleig45hpncsc2g/fast5/FAN22359_pass_barcode02_ca07d29b_0.fast5,2023-09-14_11:25:05

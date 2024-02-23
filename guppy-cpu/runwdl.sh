@@ -1,0 +1,1 @@
+cromwell run ont_guppy_basecalling_CPU.wdl -i ont_guppy_basecalling_CPU.wdl.json

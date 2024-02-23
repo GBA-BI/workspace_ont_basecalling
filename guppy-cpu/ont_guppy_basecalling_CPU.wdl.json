@@ -1,0 +1,7 @@
+{
+  "fast5GuppyCPU.sample_name": "test001",
+  "fast5GuppyCPU.threadCount": 30,
+  "fast5GuppyCPU.memSizeGB": 64,
+  "fast5GuppyCPU.fast5_path": "/home/yangkaixin/ykx/3_long-read/Nanopore/fast5_basecalling/fast5/FAN22359_pass_barcode01_ca07d29b_0.fast5"
+}
+
